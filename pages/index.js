@@ -26,12 +26,16 @@ const Home = () => {
       <ul>
         <li>
           We stand on the shoulders of giants. At this moment that's Facebook's
-          React and Amazon's Web Services.
+          React and Amazon's Web Services (AWS).
         </li>
-        <li>Concerns? They are both open source. Millions for free. For us.</li>
         <li>
-          More concerns? Yes, they are evil in business now. Tomorrow technology
-          will triumph them all. Information wants to be free.
+          Concerns? React is open source. Millions for free. For us. AWS is the
+          low cost infrastructure service.
+        </li>
+        <li>
+          More concerns? Yes, they might be evil in business now. Tomorrow
+          technology will triumph them all. Information, like us, wants to be
+          free.
         </li>
       </ul>
 
