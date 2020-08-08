@@ -8,6 +8,7 @@ const Home = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <p>Os Equi</p>
+
       <ul>
         <li>An altruistic web studio.</li>
         <li>If it's greater than you, we are in.</li>
@@ -32,6 +33,16 @@ const Home = () => {
           will triumph them all. Information wants to be free.
         </li>
       </ul>
+
+      <p>Projects:</p>
+      <ol>
+        <li>A Design System for all</li>
+      </ol>
+
+      <p>News:</p>
+      <ol>
+        <li>Energy-saving design</li>
+      </ol>
     </>
   );
 };
