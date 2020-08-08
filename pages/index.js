@@ -27,6 +27,10 @@ const Home = () => {
           React and Amazon's Web Services.
         </li>
         <li>Concerns? They are both open source. Millions for free. For us.</li>
+        <li>
+          More concerns? Yes they are evil in business. But technology triumphs
+          all for now.
+        </li>
       </ul>
     </>
   );
