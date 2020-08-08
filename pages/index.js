@@ -36,13 +36,22 @@ const Home = () => {
 
       <p>Projects:</p>
       <ol>
-        <li>A Design System for all</li>
+        <li>A Design System for all.</li>
       </ol>
 
       <p>News:</p>
       <ol>
-        <li>Energy-saving design</li>
+        <li>Energy-saving design for Os Equi.</li>
       </ol>
+
+      <p>Sustainability:</p>
+      <ul>
+        <li>We are working on, and invest in altruistic projects first.</li>
+        <li>
+          When needed we take commercial projects, for profit, and convert the
+          learnings in future Os Equi projects.
+        </li>
+      </ul>
     </>
   );
 };
