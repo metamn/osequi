@@ -35,16 +35,6 @@ const Home = () => {
         </li>
       </ul>
 
-      <p>Projects:</p>
-      <ol>
-        <li>A Design System for all.</li>
-      </ol>
-
-      <p>News:</p>
-      <ol>
-        <li>Energy-saving design for Os Equi.</li>
-      </ol>
-
       <p>Sustainability:</p>
       <ul>
         <li>We are working on, and invest in altruistic projects first.</li>
@@ -53,6 +43,16 @@ const Home = () => {
           learnings in future Os Equi projects.
         </li>
       </ul>
+
+      <p>Projects:</p>
+      <ol>
+        <li>A Design System for all. --> Open source</li>
+      </ol>
+
+      <p>News:</p>
+      <ol>
+        <li>Energy-saving design for Os Equi. --> Open source</li>
+      </ol>
     </>
   );
 };
