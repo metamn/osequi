@@ -28,8 +28,8 @@ const Home = () => {
         </li>
         <li>Concerns? They are both open source. Millions for free. For us.</li>
         <li>
-          More concerns? Yes they are evil in business. But technology triumphs
-          all for now.
+          More concerns? Yes, they are evil in business now. Tomorrow technology
+          will triumph them all. Information wants to be free.
         </li>
       </ul>
     </>
