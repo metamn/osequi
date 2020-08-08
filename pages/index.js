@@ -12,7 +12,7 @@ const Home = () => {
         <li>An altruistic web studio.</li>
         <li>If it's greater than you, we are in.</li>
         <li>
-          We've accumulated decades of experience in delivering messages. Mow we
+          We've accumulated decades of experience in delivering messages. Now we
           put that expertise in the service of the human mankind.
         </li>
         <li>
@@ -26,10 +26,7 @@ const Home = () => {
           We stand on the shoulders of giants. At this moment that's Facebook's
           React and Amazon's Web Services.
         </li>
-        <li>
-          Concerns? They are both open source. Millions for free. For us. Let's
-          harvest it and take all pills.
-        </li>
+        <li>Concerns? They are both open source. Millions for free. For us.</li>
       </ul>
     </>
   );
