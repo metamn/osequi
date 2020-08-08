@@ -22,6 +22,7 @@ const Home = () => {
         </li>
       </ul>
 
+      <p>Approach:</p>
       <ul>
         <li>
           We stand on the shoulders of giants. At this moment that's Facebook's
