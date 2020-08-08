@@ -8,16 +8,18 @@ const Home = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <p>Os Equi</p>
-      <p>an altruistic web studio.</p>
-      <p>if it's greater than you, we are in.</p>
-      <p>
-        we've accumulated decades of experience in delivering messages. now we
-        put that expertise in the service of the human mankind.
-      </p>
-      <p>
-        it's your turn. come up with things that matter, and we'll invest
-        alongside.
-      </p>
+      <ul>
+        <li>An altruistic web studio.</li>
+        <li>If it's greater than you, we are in.</li>
+        <li>
+          We've accumulated decades of experience in delivering messages. now we
+          put that expertise in the service of the human mankind.
+        </li>
+        <li>
+          It's your turn. come up with things that matter, and we'll invest
+          alongside.
+        </li>
+      </ul>
     </>
   );
 };
