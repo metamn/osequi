@@ -23,10 +23,9 @@ const Home = () => {
         <li>A Design System for all. --> Open source</li>
         <li>A take on React best practices. --> Open source</li>
         <li>
-          `meta-mui`, rapid prototyping with Google Material UI and React -->
-          Open source
+          Rapid prototyping with Google Material UI and React --> Open source
         </li>
-        <li>`react-image`, responsive images for React --> Open source</li>
+        <li>Responsive images for React --> Open source</li>
         <li>inu.ro, a photographer's portfolio --> Open source</li>
         <li>A take on WordPress best practices. --> Open source</li>
         <li>
