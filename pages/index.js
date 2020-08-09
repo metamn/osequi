@@ -21,11 +21,12 @@ const Home = () => {
       <p>Projects:</p>
       <ul>
         <li>A Design System for all. --> Open source</li>
+        <li>A take on React best practices. --> Open source</li>
       </ul>
 
       <p>News:</p>
       <ul>
-        <li>Energy-saving design for Os Equi. --> Open source</li>
+        <li>Energy-saving design for Os Equi.</li>
       </ul>
     </>
   );
