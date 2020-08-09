@@ -9,14 +9,14 @@ const Home = () => {
       </Head>
       <p>Os Equi</p>
       <p>An altruistic web studio.</p>
+      <p>If it's greater than you, we are in.</p>
       <p>
-        If it's greater than you, we are in. Come up with ideas that matter, and
-        we'll invest alongside.
+        We've accumulated experience in delivering the message. We put that
+        expertise to serve mankind. Now it's your turn. Come up with ideas that
+        matter, and we'll invest alongside.
       </p>
-      <p>
-        We've accumulated experience in delivering messages. Now we put that
-        expertise in the service of the human mankind.
-      </p>
+
+      <button>I've got an idea</button>
 
       <p>Projects:</p>
       <ul>
@@ -44,21 +44,31 @@ const Home = () => {
         </li>
       </ul>
 
-      <p>Resources:</p>
+      <p>Articles:</p>
       <ul>
-        <li>Fonts for open source projects.</li>
         <li>Ontology, taxonomy, choreography.</li>
         <li>Bauhaus to emoji: A call for a new typography.</li>
         <li>Consistently eventual.</li>
         <li>The journey of a blog post in 2020.</li>
         <li>Rethinking The Web, The Internet, And Our Roles Within.</li>
+        <li>Fonts for open source projects.</li>
         <li>Devices as designers.</li>
         <li>Delivering the message.</li>
       </ul>
 
+      <p>
+        We do consulting, mentoring and tutoring on React and Design Systems.
+        <button>Hire us</button>
+      </p>
+
       <p>News:</p>
       <ul>
         <li>Energy-saving design for Os Equi.</li>
+      </ul>
+
+      <p>Resources:</p>
+      <ul>
+        <li>Google Tech writing course ...</li>
       </ul>
     </>
   );
