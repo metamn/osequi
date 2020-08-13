@@ -18,13 +18,12 @@ const Home = () => {
 
       <button>I've got an idea</button>
 
-      <p>Projects:</p>
+      <p>Selected projects:</p>
       <ul>
-        <li>A Design System for all. --> Open source</li>
+        <li>A Semantic Design System. --> Open source</li>
         <li>A take on React best practices. --> Open source</li>
-        <li>
-          Rapid prototyping with Google Material UI and React --> Open source
-        </li>
+        <li>A high level overview of React. --> Open source</li>
+        <li>Multilanguage routing with React --> Open source</li>
         <li>Responsive images for React --> Open source</li>
         <li>inu.ro, a photographer's portfolio --> Open source</li>
         <li>A take on WordPress best practices. --> Open source</li>
@@ -43,6 +42,7 @@ const Home = () => {
           Gravity point. Find the centre of gravity of a webpage --> Open source
         </li>
       </ul>
+      <button>Browse more</button>
 
       <p>Articles:</p>
       <ul>
@@ -55,6 +55,7 @@ const Home = () => {
         <li>Devices as designers.</li>
         <li>Delivering the message.</li>
       </ul>
+      <button>More articles</button>
 
       <p>
         We do consulting, mentoring and tutoring on React and Design Systems.
